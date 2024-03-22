@@ -28,7 +28,7 @@ git clone https://github.com/NikitaBerezhnyj/Code_Printer.git
 **_2. Перейдіть до теки репозиторію:_**
 
 ```bash
-cd code-printer
+cd Code_Printer
 ```
 
 **_3. Скомпілюйте програму за допомогою компілятора Rust:_**
@@ -77,7 +77,7 @@ git clone https://github.com/NikitaBerezhnyj/Code_Printer.git
 **_2.Change to the repository folder:_**
 
 ```bash
-cd code-printer
+cd Code_Printer
 ```
 
 **_3. Compile the program using the Rust compiler:_**
